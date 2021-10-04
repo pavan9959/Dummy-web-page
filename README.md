@@ -12,6 +12,6 @@ Runs the app in the development mode.
 
 ## Screen Shots
 
-![Uploading p.PNG…]()
+![p](https://user-images.githubusercontent.com/83756776/135872785-cd63f0cb-000d-4ef8-879a-d0cd9ca991bd.PNG)
 
 
